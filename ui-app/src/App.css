@@ -1,11 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fascinate&family=Kdam+Thmor+Pro&family=Montserrat:ital,wght@1,300;1,400;1,700&family=Pacifico&display=swap');
+
 .container{
-  border: 3px solid red;
-  border-radius: 1.5rem;
+  border: 2px solid rgb(34, 34, 70);
+  border-radius: .5rem;
+  height: 5rem;
   padding: 0.5rem;
+  font-family: 'Bebas Neue', cursive;
+ 
+}
+.top{
+  font-size: x-large;
+
+ 
 }
 
 .table1{
   list-style: none;
   font-size: larger;
 
+}
+
+.container-center{
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 0.25rem;
+}
+
+
+.images{
+  width: 20%;
+  padding: 2rem;
+  
+ 
+}
+
+.container-h1{
+ text-align: center;
+}
+
+.btn{
+  border: 2px solid;
+  padding: 0.5rem;
+  color: rgb(34, 34, 70);
+  border-radius: 0.5rem;
+  border-color:rgb(34, 34, 70);
+  text-decoration: none;
+  position: relative;
+  top: 20px;
+  background-color: rgb(215, 123, 154);
+}
+
+.right{
+  
+  text-align: right;
+  position: relative;
+  right: 40px;
+  bottom: 125px;
+  font-size: 35px;
+
+  
+}
+
+
+.image-logo{
+  width: 4%;
+  position:relative;
+  bottom: 70px;
+}
+
+
+p{
+  margin-left: 4rem;
+  text-indent: 1rem;
+  letter-spacing: 30px;
+  
 }

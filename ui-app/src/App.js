@@ -8,7 +8,7 @@ function App() {
    <>
    
    <Navbar/>
-   <img src="img2.svg" alt="" />
+   
   <MainPage/>
    </>
   );
