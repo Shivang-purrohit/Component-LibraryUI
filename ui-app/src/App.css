@@ -79,11 +79,3 @@ p{
 }
 
 
-.nav-section{
-  grid-area: nav;
-  grid-row-start: nav;
-  grid-column-start: nav;
-  grid-row-end: nav;
-  grid-column-end: nav;
-  width: 15rem;
-}

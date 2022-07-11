@@ -1,9 +1,13 @@
 import React from 'react'
+import Navbar from './Navbar';
 import img from './images/img2.svg';
 export default function MainPage() {
   return (
    
         <>
+        <div>
+         <Navbar/>
+         </div>
     <div className='container-center'>
         <img className='images' src={img} alt="" />
         <div className='container-h1'> 
