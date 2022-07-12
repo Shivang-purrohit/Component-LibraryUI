@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fascinate&family=Kdam+Thmor+Pro&family=Montserrat:ital,wght@1,300;1,400;1,700&family=Pacifico&display=swap');
+
+
+
+.navbar {
+    border: 2px solid black;
+    border-radius: 1rem;
+    list-style-type: none;
+    background-color: gray;
+    
+
+
+}
+
+.nav-logo{
+    font-size: x-large;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    
+}
+
+.navItem{
+    text-decoration: none;
+    color: black;
+    display: inline;
+    text-align: center;
+   padding: 1.5rem;
+
+    
+}
+
+.inline{
+
+    display: inline;
+    
+    margin: 1rem;
+    position: relative;
+    left: 30rem;
+    font-size: x-large;
+    bottom: 10px;
+    
+}
+.search{
+    position: relative;
+    bottom: 6px;
+    left: 20px;
+    border-radius: 1rem;
+    font-size:medium;
+    letter-spacing: 5px;
+    text-align: center;
+    outline: transparent;
+    border:none
+}
+
+.navItem:hover{
+    color:purple;
+}
+
+.dark{
+    color:white;
+    background-color: black;
+    overflow:hidden
+
+}

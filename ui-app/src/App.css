@@ -9,7 +9,7 @@
   font-family: 'Bebas Neue', cursive;
  
 }
-.top{
+.above{
   font-size: x-large;
 
  
@@ -36,8 +36,10 @@
  
 }
 
-.container-h1{
+.container-inside{
  text-align: center;
+ padding: 2rem;
+ margin: 2rem;
 }
 
 .btn{
@@ -52,12 +54,12 @@
   background-color: rgb(215, 123, 154);
 }
 
-.right{
+.github-side{
   
   text-align: right;
   position: relative;
   right: 40px;
-  bottom: 125px;
+  bottom: 110px;
   font-size: 35px;
 
   
@@ -67,15 +69,20 @@
 .image-logo{
   width: 4%;
   position:relative;
-  bottom: 70px;
+  bottom: 50px;
 }
 
 
-p{
+.p-tag{
   margin-left: 4rem;
   text-indent: 1rem;
   letter-spacing: 30px;
+  margin-top: 1rem;
   
+}
+
+.welcome{
+  padding-bottom: 2rem;
 }
 
 
