@@ -4,6 +4,8 @@ import img from './images/img2.svg'
 import { Link } from 'react-router-dom'
 import Navbar from './Navbar'
 import Cards from './Cards'
+import Buttons from './images/Buttons'
+
 export default function Page2() {
   return (
  <>
@@ -73,7 +75,12 @@ export default function Page2() {
 
              <h1>Buttons</h1>
            
-            <p className='para'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim labore earum error corporis ratione deleniti aspernatur, illo reiciendis eveniet aliquid ea voluptatibus blanditiis accusamus atque quae! Repellendus porro consequuntur optio cupiditate sit inventore impedit vero? Soluta inventore maxime est. Quam ad minus veritatis iusto earum doloremque asperiores nesciunt reiciendis consequuntur explicabo, fuga nostrum quae tempora accusamus totam? Perferendis corporis aperiam molestiae ratione autem inventore voluptatem, dolorum reprehenderit ea sed culpa cumque, voluptates porro esse placeat amet excepturi! Molestiae libero, dolore enim repudiandae neque obcaecati quam eos illo autem, assumenda delectus. Non deleniti dolorum blanditiis laudantium distinctio suscipit voluptatibus doloremque ipsum doloribus eos. Voluptates, saepe quaerat! Beatae deleniti perspiciatis veniam quis facere dolore, velit .</p>
+            <p className='para'>Non deleniti dolorum blanditiis laudantium distinctio suscipit voluptatibus doloremque ipsum doloribus eos. Voluptates, saepe quaerat! Beatae deleniti perspiciatis veniam quis facere dolore, velit .</p>
+           <br />
+           <Buttons/>
+           <br />
+           <br />
+           
             <hr></hr>
 
              <br></br>
