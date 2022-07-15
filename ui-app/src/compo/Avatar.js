@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 export default function Avatar() {
   return (
     <>
@@ -8,11 +9,10 @@ export default function Avatar() {
 
        <img src="https://static.vecteezy.com/system/resources/previews/002/275/847/original/male-avatar-profile-icon-of-smiling-caucasian-man-vector.jpg" alt="" className="avatar avatar2"  />
        
-       <div style={{ padding: "0rem" }}>
+       
         
         </div>
 
-       </div>
     </>
   )
 }

@@ -95,18 +95,41 @@
 
 }
 
-.wrapper .sidebar .ul1 .list{
+.wrapper .sidebar .ul1  {
   padding: 30px;
-  border-bottom: 1px solid lightgray;
-  border-top: 1px solid lavender;
+ 
 }
 
-.list:hover{
-  background: #4b4276;
+.list{
 
 }
 
-.wrapper .sidebar .ul1 .list .fa-solid{
+.links{
+  
+  display: flex;
+  padding: 0.5rem;
+  margin: 2rem;
+  border-bottom: 1px solid rgb(9, 8, 8);
+  width: 280px;
+  position: relative;
+  right: 50px;
+  font-size: x-large;
+  bottom: 60px;
+  
+
+  
+}
+
+  
+
+  
+
+.links:hover{
+  cursor: pointer;
+  background-color: aqua;
+}
+
+.wrapper .sidebar .ul1  {
   width: 20px;
 }
 
@@ -132,7 +155,3 @@
   bottom: 15px;
 }
 
-.list{
-  font-size: larger;
-  
-}
