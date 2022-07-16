@@ -1,5 +1,4 @@
 import React from 'react'
-import './Page2.css'
 import img from './images/img2.svg'
 import { Link } from "react-scroll"
 import Navbar from './Navbar'
@@ -54,7 +53,7 @@ export default function Page2() {
 
              <br></br>
             <div  id='NavBar'>
-              <h1>NavBar</h1>
+              <h1>NavBars</h1>
               <br />
               <Navbar/>
               <br />
@@ -88,11 +87,11 @@ export default function Page2() {
              <div  id='button-id'>
              <h1>Buttons</h1>
            
-            <p className='para'>Non deleniti dolorum blanditiis laudantium distinctio suscipit voluptatibus doloremque ipsum doloribus eos. Voluptates, saepe quaerat! Beatae deleniti perspiciatis veniam quis facere dolore, velit .</p>
-           <br />
+           
+           
            <Buttons/>
            <br />
-           <br />
+           
            </div>
             <hr></hr>
             
@@ -100,7 +99,7 @@ export default function Page2() {
              <div  id='floating'>
              <h1>Floating Button</h1>
             
-            <p className='para'>untur optio cupiditate Soluta inventore maxime est. Quam ad minus veritatis iusto earum doloremque asperiores nesciunt reiciendis consequuntur explicabo, fuga nostrum quae tempora accusamus totam? Perferendis corporis aperiam molestiae ratione autem inventore voluptatem, dolorum reprehenderit ea sed culpa cumque, voluptates porro esse placeat amet excepturi! Molestiae libero, dolore enim repudiandae neque obcaecati quam eos illo autem, assumenda delectus. Non deleniti dolorum blanditiis laudantium distinctio suscipit voluptatibus doloremque ipsum doloribus eos. Voluptates, saepe quaerat! Beatae deleniti perspiciatis veniam quis facere dolore, velit .</p>
+          
             <br />
               <br />
               <Floating/>
