@@ -7,7 +7,7 @@ export default function Badge() {
             <div className="card-img"> <img src="https://www.91-img.com/gallery_images_uploads/2/5/25e14af0a272fe905daa9cd6ed386f51aecdca98.jpg?w=0&h=901&q=80&c=1" alt="" className='img-set2' /></div>
             <div className="phone">
                 
-            <a href=""  className='button-add-cart'  >Add to cart</a>
+            <a href="#"  className='button-add-cart'  >Add to cart</a>
            
          </div>
          
@@ -16,6 +16,13 @@ export default function Badge() {
          <p className='rating'>(2000+ Ratings)</p>
          <p className='badge-on'>Coming Soon!</p>
 
+        </div>
+        <div>
+        <iframe
+  src="https://carbon.now.sh/embed/FRsjOzIkTJuxy21FgaDU"
+  style={{width:"800px", height:"600px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
         </div>
     </>
   )

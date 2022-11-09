@@ -450,7 +450,7 @@
     
 
 }
-.button1{
+.button-s{
     display: inline-block;
      margin: 2rem;
      color: white;
@@ -460,7 +460,7 @@
 
 }
 
-.button-s{
+.button-l{
     display: inline-block;
     margin: 2rem;
     color: white;
@@ -476,7 +476,7 @@
     cursor:pointer;
 }
 
-.design1{
+.primary{
     border: 1px solid transparent;
     border-radius: 1.5rem;
     padding: 1rem;
@@ -486,7 +486,7 @@
    
 }
 
-.design2{
+.danger{
     
     border: 1px solid transparent;
     border-radius: 1.5rem;
@@ -495,7 +495,7 @@
     background-color: rgba(255, 0, 0, 0.819);
 }
 
-.design3{
+.warning{
     border: 1px solid transparent;
     border-radius: 1.5rem;
     padding: 1rem;
@@ -503,7 +503,7 @@
     background-color:rgba(172,160,0,.925)
 }
 
-.design4{
+.success{
     border: 1px solid transparent;
     border-radius: 1.5rem;
     padding: 1rem;
@@ -512,20 +512,20 @@
    
 }
 
-.design1:hover{
+.primary:hover{
     
     background-color:rgb(0, 24, 90) ;
 
 }
 
-.design2:hover{
+.danger:hover{
     background-color: rgb(255, 0, 0); ;
 
 }
-.design3:hover{
+.warning:hover{
     background-color:rgb(172, 161, 0) ;
 }
-.design4:hover{
+.success:hover{
     background-color: rgb(0, 128, 0);
 }
 
@@ -575,19 +575,19 @@
 
 }
 
-.alert-design1{
+.alert-error{
     background-color:rgb(255, 0, 0); 
 }
 
-.alert-design2{
+.alert-success{
     background-color:rgb(0, 128, 0);
 }
 
-.alert-design3{
+.alert-warning{
     background-color:rgb(172, 161, 0);
 }
 
-.alert-design4{
+.alert-info{
    background-color:  rgba(0,24,90,.925);
 }
 
@@ -614,7 +614,7 @@
     margin: 1rem;
 }
 
-.avatar2{
+.avatar-border{
     border: 12px solid rgba(255, 0, 0, 0.761);
     padding: 0.5rem;
 }

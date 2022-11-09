@@ -13,6 +13,12 @@ export default function Floating() {
            
         </div>
       
+        <iframe
+  src="https://carbon.now.sh/embed/8HxlSLK3ppv1ZhJgKHTV"
+  style={{width: "500px", height: "350px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
+
     </div>
     </>
   )

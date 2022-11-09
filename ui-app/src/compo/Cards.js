@@ -27,6 +27,16 @@ export default function Cards() {
             <a href="#"  className='button-now'>book now</a>
          </div>
         </div>
+        <div>
+
+        <iframe
+  src="https://carbon.now.sh/embed/SuUdQ8xPtLCfBeQsUCZK"
+  style={{width: "1000px", height: "700px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+  sandbox="allow-scripts allow-same-origin">
+ 
+</iframe>
+
+     </div>
 
 
         <div className="card2">
@@ -49,7 +59,19 @@ export default function Cards() {
             <div className="card-back">
             <a href="#"  className='button-back'>Order Now !</a>
          </div>
+        
         </div>
+
+        <div>
+
+<iframe
+  src="https://carbon.now.sh/embed/3BZ4kJWH36QN3uWf1YBd"
+style={{width: "1000px", height: "616px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+
+</div>
 
       
     </section>

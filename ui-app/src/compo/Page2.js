@@ -41,14 +41,18 @@ export default function Page2() {
 
             <div className="main-content">
             <h1>INSTALLATION</h1>
-            <p className='para'>copy this code in the head tag of your HTML document and you are good to go:</p>
-            
-            
-      
-            <br />
-           <br />
-           <br />
-           <br />
+            <p className='para'>copy this code in the head tag of your HTML document and you are good to go :</p>
+            <iframe
+  src="https://carbon.now.sh/embed/QAaClC1PAtJRIFAjqrlD"
+  style={{width: "583px", height: "150px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+<p className='para'>The icons used in this library are from Font Awesome. You can get your own CDN link <a href="https://fontawesome.com/"><strong>here</strong></a></p>
+
+           
+           
+           
             <hr></hr>
 
              <br></br>
@@ -56,13 +60,8 @@ export default function Page2() {
               <h1>NavBars</h1>
               <br />
               <Navbar/>
-              <br />
-              <br />
               
-              <br />
-              <br />
-              <br />
-              <br />
+             
 
               
             </div>
@@ -70,15 +69,11 @@ export default function Page2() {
             <br />
             <div  id='cards'>
             <h1>Cards</h1>
-            <p className='para'>copy this code in the head tag of your HTML document and you are good to go:</p>
+            
             <Cards/>
             <br />
-              <br />
-              <br />
-              <br />
-              <br />
-              <br />
-              <br />
+             
+             
               </div>
             <hr></hr>
 
@@ -91,7 +86,7 @@ export default function Page2() {
            
            <Buttons/>
            <br />
-           
+        
            </div>
             <hr></hr>
             
@@ -115,7 +110,7 @@ export default function Page2() {
              <div  id='alerts-id'>
              <h1>Alerts</h1>
            
-            <p className='para'> saepe quaerat! Beatae deleniti perspiciatis veniam quis facere dolore, velit .</p>
+           
               <br />
               <br />
               <br />
@@ -133,33 +128,22 @@ export default function Page2() {
              <div  id='badge'>
              <h1>Badge on cards</h1>
             
-            <p className='para'>Lorem ur, laudantium distinctio suscipit voluptatibus doloremque ipsum doloribus eos. Voluptates, saepe quaerat! Beatae deleniti perspiciatis veniam quis facere dolore, velit .</p>
-           <br />
-           <br />
            <br />
            <Badge/>
-           <br />
-           <br />
-           <br />
+           
             <hr></hr>
 
-             <br></br>
              </div>
              <div  id='Avatars'>
              <h1>Avatar</h1>
           
-            <p className='para'>   um blanditiis laudantium distinctio suscipit voluptatibus doloremque ipsum doloribus eos. Voluptates, saepe quaerat! Beatae deleniti perspiciatis veniam quis facere dolore, velit .</p>
            
-           <br />
-           <br />
+           
            <br />
 
           <Avatar/>
         
-      
 
-           <br />
-           <br />
            <br />
            
             <hr></hr>
