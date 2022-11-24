@@ -35,7 +35,7 @@ export default function Navbar() {
 
        <div className='carbon-box'>
        <iframe
-  src="https://carbon.now.sh/embed/wX8RawJsUMFlYPXVqCD7"
+  src="https://carbon.now.sh/embed/oAbOR377niRR2AcRj5IP"
   style={{width:"803px", height:"750px", border:"0", transform: "scale(1)", overflow:"hidden"}}
   sandbox="allow-scripts allow-same-origin">
 </iframe>
