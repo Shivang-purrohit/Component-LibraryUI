@@ -99,10 +99,6 @@ export default function Page2() {
               <br />
               <Floating/>
             
-            
-              <br />
-              <br />
-            
               </div>
             <hr></hr>
 
