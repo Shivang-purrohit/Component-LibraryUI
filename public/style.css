@@ -628,19 +628,7 @@
 }
 
 
-::-webkit-scrollbar{
-    width: 0.8em;
-}
-::-webkit-scrollbar-track{
-    background-color: #FF869E;
-    
-}
 
-::-webkit-scrollbar-thumb{
-    background-color: #7ce3ed;
-    border-radius: 50vw;
-    border-radius:.25em solid #FF869E ;
-}
 
 
 

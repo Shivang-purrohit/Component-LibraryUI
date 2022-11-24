@@ -8,7 +8,7 @@ export default function MainPage() {
         <div>
 
         <div className='container'>
-      <navbar className='above'>
+      <div className='above'>
      <div> <p className='p-tag'>MATRIX-UI</p></div> 
      <img className='image-logo' src={img} alt="" />
       
@@ -17,7 +17,7 @@ export default function MainPage() {
       <i className='fa-brands fa-github '></i>
       </a>
        </div>
-      </navbar>
+      </div>
 
 
     </div>
