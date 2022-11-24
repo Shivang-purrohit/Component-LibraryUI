@@ -94,4 +94,8 @@
   padding-bottom: 2rem;
 }
 
-
+.my-name{
+  display: flex;
+  justify-content: center;
+  padding-top: 6rem;
+}

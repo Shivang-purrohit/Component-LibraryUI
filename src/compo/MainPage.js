@@ -31,9 +31,11 @@ export default function MainPage() {
            <h2>Build minimalistic and beautiful UI using the Matrix UI library</h2>
         </div>
         <Link to="/page2" className='btn'>GET STARTED</Link>
-         
-      
-    </div>
+
+       </div>
+       <div className='my-name'>
+       <p>Made with ❤️ by Shivang</p> 
+       </div>
     </>
   )
 }
