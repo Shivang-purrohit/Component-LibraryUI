@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from './Navbar';
 import img from './images/img2.svg';
 import { Link } from 'react-router-dom';
 export default function MainPage() {

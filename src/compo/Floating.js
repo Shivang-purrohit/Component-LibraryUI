@@ -13,9 +13,12 @@ export default function Floating() {
            
         </div>
       
-        <iframe
+    
+    </div>
+    <div className='margin-floating'>
+    <iframe
   src="https://carbon.now.sh/embed/8HxlSLK3ppv1ZhJgKHTV"
-  style={{width: "500px", height: "350px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+  style={{width: "500px", height: "300px", border:"0", transform: "scale(1)", overflow:"hidden"}}
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
