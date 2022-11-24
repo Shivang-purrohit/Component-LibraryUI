@@ -1,4 +1,4 @@
-import './App.css';
+import './style.css';
 import MainPage from './compo/MainPage';
 import React from "react";
 import {  Routes, Route, Link } from "react-router-dom";

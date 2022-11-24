@@ -43,7 +43,7 @@ export default function Page2() {
             <h1>INSTALLATION</h1>
             <p className='para'>copy this code in the head tag of your HTML document and you are good to go :</p>
             <iframe
-  src="https://carbon.now.sh/embed/QAaClC1PAtJRIFAjqrlD"
+  src="https://carbon.now.sh/embed/XxhFba8yuNca70tsEXVF"
   style={{width: "583px", height: "150px", border:"0", transform: "scale(1)", overflow:"hidden"}}
   sandbox="allow-scripts allow-same-origin">
 </iframe>
