@@ -20,7 +20,7 @@ export default function Badge() {
         <div>
         <iframe
   src="https://carbon.now.sh/embed/FRsjOzIkTJuxy21FgaDU"
-  style={{width:"800px", height:"600px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+  style={{width:"800px", height:"500px", border:"0", transform: "scale(1)", overflow:"hidden"}}
   sandbox="allow-scripts allow-same-origin">
 </iframe>
         </div>

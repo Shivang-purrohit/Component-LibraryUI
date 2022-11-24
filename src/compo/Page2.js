@@ -114,7 +114,7 @@ export default function Page2() {
               <Alerts/>
               <br />
               <br />
-              <br />
+              
             <hr></hr>
 
              <br/>
@@ -142,9 +142,9 @@ export default function Page2() {
 
            <br />
            
-            <hr></hr>
+            
 
-             <br></br>
+             
            
             
              </div>

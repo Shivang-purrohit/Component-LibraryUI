@@ -21,7 +21,7 @@ export default function Buttons() {
 
 <iframe
 src="https://carbon.now.sh/embed/q0aAOSX5UXVYwGGkm3fx"
-style={{width: "524px", height: "600px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+style={{width: "524px", height: "500px", border:"0", transform: "scale(1)", overflow:"hidden"}}
 sandbox="allow-scripts allow-same-origin">
 </iframe>
 

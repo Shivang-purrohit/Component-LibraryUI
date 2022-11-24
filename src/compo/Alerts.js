@@ -12,7 +12,7 @@ export default function Alerts() {
       
         <iframe
   src="https://carbon.now.sh/embed/BgDkjMpCNYAo7LjuU5ee"
-  style={{width: "1024px", height: "300px", border:"0", transform: "scale(1)", overflow:"hidden"}}
+  style={{width: "1024px", height: "190px", border:"0", transform: "scale(1)", overflow:"hidden"}}
   sandbox="allow-scripts allow-same-origin">
 </iframe>
       
